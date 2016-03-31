@@ -1,0 +1,167 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,roman]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% modern themes
+\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{green}                                % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+% \renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.85]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+
+\usepackage{import}
+
+% personal data
+\name{Steven}{Hanna}
+\title{Computer Science}                               % optional, remove / comment the line if not wanted
+\address{985 Clifton Ave, Glen Ellyn, IL, 60137}{}{}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\phone[mobile]{+630.880.0793}                   % optional, remove / comment the line if not wanted
+% \phone[fixed]{01234 123456}                    % optional, remove / comment the line if not wanted
+%\phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+\email{steventhanna@gmail.com}                               % optional, remove / comment the line if not wanted
+\homepage{www.steventhanna.github.io}                         % optional, remove / comment the line if not wanted
+%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+
+\small{First year Computer Science student.  Passionate about computing, design, development, with strong interpersonal skills for working in a team and successfully completing a project.}
+
+\section{Education}
+
+\vspace{5pt}
+
+\subsection{Academic Qualifications}
+
+\vspace{5pt}
+
+\begin{itemize}
+
+\item{\cventry{2015 -- current}{Computer Science}{Syracuse University}{Syracuse, NY}{\textit{Freshman, Honors College, Deans List}}{}}
+
+\item{\cventry{2011 -- 2015}{Honors / AP Curriculum}{Glenbard West High School}{Glen Ellyn, IL}{\textit{4.8 / 5.0 GPA}}{}}
+
+\end{itemize}
+
+\vspace{2pt}
+
+\subsection{Relevant Coursework}
+
+\vspace{5pt}
+
+\begin{itemize}
+
+  \item{\textbf{\textit{CIS 351} Data Structures:} Abstract Data Structures, Algorithm Analysis, Object-Oriented Programming in Java}
+  \item{\textbf{\textit{CIS 252} Intro. Computer Science:} Programming Emphasizing Recursion, Data Structures, and Data Abstraction \textit{(current)}}
+  \item{\textbf{\textit{CSE 283} Intro. Object Oriented Design:} Fundamental software design concepts of functional decomposition and object-oriented design in C++ \textit{(current)}}
+
+\end{itemize}
+
+\vspace{2pt}
+
+\section{Previous Employment}
+
+\vspace{6pt}
+
+\begin{itemize}
+
+\item{\cventry{March 2014 -- Current}{Design and Development}{Freelance Webdesign / Development}{Chicago, IL}{}{\vspace{3pt}Created and maintained several websites, including personal blogs with a full integrated backends, and well as beautiful personal portfolio sites.
+}}
+
+\vspace{6pt}
+
+\item{\cventry{July 2014 -- February 2015}{Lead Designer and Frontend Developer}{Hilltopper Track}{Glen Ellyn, IL}{}{\vspace{3pt}Designed, created, and implemented a custom backend and frontend for the Glenbard West Track and Field team, with advanced posting mechanisms. \url{http://toppertrack.info/}}}
+
+\end{itemize}
+
+\subsection{Notable Projects}
+
+\vspace{5pt}
+
+\begin{itemize}
+
+\item{\textbf{Ritmico:} \textit{'Redefining how music teachers and students communicate'}
+
+\vspace{3pt}
+
+\small{Ritmico is a system that aims to increase communication between music students and teachers by providing an online commonplace to excahnge messages, record practice times, and edit lesson notes.  All server-side logic is written using the MVC framework \textit{Sails.js}, ontop of the \textit{Node.js} stack.  Entire client-side is written in EJS (HTML derivative), CSS, and JavaScript, with the design implementing Bootstrap.}}
+
+\vspace{6pt}
+
+\item{\textbf{Streamr} \textit{'Increase the amount of words read per minute using Spritz Technology'}  \url{http://stosur.info/streamr/}
+
+\vspace{3pt}
+
+\small{Designed, implemented, and maintained a revolutionary new type of site that allows the user to read much faster than average. By forcing the user to not move their eyes in-between words, the words per minute time has increased exponentially.}}
+
+\vspace{6pt}
+
+\end{itemize}
+
+\section{Technical and Personal skills}
+
+\vspace{6pt}
+
+\begin{itemize}
+
+\item \textbf{Programming Languages:} Proficient in: TeX, Java, JavaScript, HTML, Node.js, Git, CSS \\ Also basic ability with: C++, Python, Bash.
+
+\vspace{6pt}
+
+\item \textbf{Design Skills:} Adobe Illustrator, Adobe Photoshop, Final Cut Pro X.
+
+\end{itemize}
+
+% Publications from a BibTeX file without multibib
+%  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
+%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{publications}                        % 'publications' is the name of a BibTeX file
+
+% Publications from a BibTeX file using the multibib package
+%\section{Publications}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+
+%-----       letter       ---------------------------------------------------------
+
+\end{document}
+
+
+%% end of file `template.tex'.
