@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex resume"] 1459392082 "resume.aux" "resume.bbl" "resume" 1459392083
+["bibtex resume"] 1461029486 "resume.aux" "resume.bbl" "resume" 1461029487
   "/usr/local/texlive/2015/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "publications.bib" 0 -1 0 ""
-  "resume.aux" 1459392082 1153 5215cec0b2dc112991952d9492990164 ""
+  "resume.aux" 1461029487 1153 5215cec0b2dc112991952d9492990164 ""
   "resume.bcf" 0 -1 0 ""
   (generated)
   "resume.blg"
   "resume.bbl"
-["pdflatex"] 1459392082 "resume.tex" "resume.pdf" "resume" 1459392083
-  "./resume.out" 1459392082 884 902fe1aa1ced57296f2d4934cd8a8666 ""
+["pdflatex"] 1461029486 "resume.tex" "resume.pdf" "resume" 1461029487
+  "./resume.out" 1461029487 884 902fe1aa1ced57296f2d4934cd8a8666 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc" 1254269485 2458 3b98c7cf30777b7803f362f19b1b8e68 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -184,12 +184,12 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1432479681 3849859 39a7d258195bde2394e244961601fbc5 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "resume.aux" 1459392082 1153 5215cec0b2dc112991952d9492990164 ""
+  "resume.aux" 1461029487 1153 5215cec0b2dc112991952d9492990164 ""
   "resume.bbl" 0 -1 0 "bibtex resume"
-  "resume.out" 1459392082 884 902fe1aa1ced57296f2d4934cd8a8666 ""
-  "resume.tex" 1459392080 8216 4d2b49c5138be7850a200f939da0b3c4 ""
+  "resume.out" 1461029487 884 902fe1aa1ced57296f2d4934cd8a8666 ""
+  "resume.tex" 1461029485 8236 b75b065e53efaa538d3871def3835f68 ""
   (generated)
   "resume.aux"
   "resume.out"
-  "resume.pdf"
   "resume.log"
+  "resume.pdf"
