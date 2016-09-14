@@ -183,8 +183,8 @@ INPUT /usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/marvosym/umvs.fd
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/marvosym/umvs.fd
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/marvosym/umvs.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/moderncv/moderncvcolorgreen.sty
-INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/moderncv/moderncvcolorgreen.sty
+INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/moderncv/moderncvcolorblack.sty
+INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/moderncv/moderncvcolorblack.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/base/utf8.def
@@ -291,7 +291,6 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/lmsy5.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplb.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplri.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplr.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplbi.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/ec-lmtt10.tfm
@@ -305,6 +304,5 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplbi.pfb
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb
