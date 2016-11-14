@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 SEP 2016 21:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 NOV 2016 17:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1092,14 +1092,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  27008 strings out of 493089
- 501005 string characters out of 6134842
+ 501003 string characters out of 6134842
  561322 words of memory out of 5000000
  30069 multiletter control sequences out of 15000+600000
  62072 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,11n,60p,10358b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on resume.pdf (1 page, 136309 bytes).
+Output written on resume.pdf (1 page, 136304 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  65 compressed objects within 1 object stream
