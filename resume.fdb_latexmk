@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex resume"] 1500424794 "resume.aux" "resume.bbl" "resume" 1500424796
+["bibtex resume"] 1515170349 "resume.aux" "resume.bbl" "resume" 1515170350
   "/usr/local/texlive/2015/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "publications.bib" 0 -1 0 ""
-  "resume.aux" 1500424796 1150 a3f5bb8699cf4aebe759f2629fad7edf ""
+  "resume.aux" 1515170350 1150 a3f5bb8699cf4aebe759f2629fad7edf ""
   "resume.bcf" 0 -1 0 ""
   (generated)
   "resume.bbl"
   "resume.blg"
-["pdflatex"] 1500424794 "resume.tex" "resume.pdf" "resume" 1500424796
-  "./resume.out" 1500424796 874 efab74118a9c60ae21e4e2cca16398c9 ""
+["pdflatex"] 1515170349 "resume.tex" "resume.pdf" "resume" 1515170350
+  "./resume.out" 1515170350 874 efab74118a9c60ae21e4e2cca16398c9 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc" 1254269485 2458 3b98c7cf30777b7803f362f19b1b8e68 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -182,12 +182,12 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1432479681 3849859 39a7d258195bde2394e244961601fbc5 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "resume.aux" 1500424796 1150 a3f5bb8699cf4aebe759f2629fad7edf ""
+  "resume.aux" 1515170350 1150 a3f5bb8699cf4aebe759f2629fad7edf ""
   "resume.bbl" 0 -1 0 "bibtex resume"
-  "resume.out" 1500424796 874 efab74118a9c60ae21e4e2cca16398c9 ""
-  "resume.tex" 1500424793 8765 00bd235e73f91046c42c202020610317 ""
+  "resume.out" 1515170350 874 efab74118a9c60ae21e4e2cca16398c9 ""
+  "resume.tex" 1515170344 8562 802b29a595a7892a8a0a55e763698cbb ""
   (generated)
-  "resume.aux"
-  "resume.log"
   "resume.pdf"
+  "resume.aux"
   "resume.out"
+  "resume.log"
