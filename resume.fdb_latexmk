@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex resume"] 1614136238 "resume.aux" "resume.bbl" "resume" 1614136239
+["bibtex resume"] 1617919549 "resume.aux" "resume.bbl" "resume" 1617919549
   "/usr/local/texlive/2015/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "publications.bib" 0 -1 0 ""
-  "resume.aux" 1614136238 1066 fb32c4872a4f86a8a9ca6f5159800759 ""
+  "resume.aux" 1617919549 1133 e988bd40862e3b3e64c347d437ed9a72 ""
   "resume.bcf" 0 -1 0 ""
   (generated)
-  "resume.blg"
   "resume.bbl"
-["pdflatex"] 1614136238 "/Users/steventhanna/Desktop/Programming/resume/resume.tex" "/Users/steventhanna/Desktop/Programming/resume/resume.pdf" "resume" 1614136239
-  "/Users/steventhanna/Desktop/Programming/resume/resume.aux" 1614136238 1066 fb32c4872a4f86a8a9ca6f5159800759 ""
-  "/Users/steventhanna/Desktop/Programming/resume/resume.tex" 1614136225 8133 01724a100e63b9e4abbed3376f9ea42d ""
+  "resume.blg"
+["pdflatex"] 1617919548 "/Users/steventhanna/Desktop/Programming/resume/resume.tex" "/Users/steventhanna/Desktop/Programming/resume/resume.pdf" "resume" 1617919549
+  "/Users/steventhanna/Desktop/Programming/resume/resume.aux" 1617919549 1133 e988bd40862e3b3e64c347d437ed9a72 ""
+  "/Users/steventhanna/Desktop/Programming/resume/resume.tex" 1617919548 8407 8aa44a2bb426085967026f57eb6ab6c4 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc" 1254269485 2458 3b98c7cf30777b7803f362f19b1b8e68 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -183,14 +183,14 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1432479681 3849859 39a7d258195bde2394e244961601fbc5 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "resume.aux" 1614136238 1066 fb32c4872a4f86a8a9ca6f5159800759 ""
+  "resume.aux" 1617919549 1133 e988bd40862e3b3e64c347d437ed9a72 ""
   "resume.bbl" 0 -1 0 "bibtex resume"
-  "resume.out" 1614136238 700 04e39809a0a0aad10a7386e76b9bf17d ""
-  "resume.tex" 1614136225 8133 01724a100e63b9e4abbed3376f9ea42d ""
+  "resume.out" 1617919549 783 3930ef954ad43806d9c65c3a5a33c4ff ""
+  "resume.tex" 1617919548 8407 8aa44a2bb426085967026f57eb6ab6c4 ""
   (generated)
   "/Users/steventhanna/Desktop/Programming/resume/resume.pdf"
-  "resume.log"
-  "resume.out"
   "/Users/steventhanna/Desktop/Programming/resume/resume.log"
+  "resume.out"
+  "resume.log"
   "resume.aux"
   "resume.pdf"

@@ -252,8 +252,6 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplb.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplr.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/marvosym/umvs.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmr.fd
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm
@@ -275,9 +273,8 @@ INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplr.tfm
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplr.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplb.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplr.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplr.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/marvosym/umvs.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/rm-lmr7.tfm
@@ -290,10 +287,12 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/lmsy7.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/lmsy5.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplb.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplri.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplr.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/lm/ec-lmtt10.tfm
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplr.tfm
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplr.tfm
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/tex-gyre/ec-qplr.tfm
 INPUT /usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /Users/steventhanna/Desktop/Programming/resume/resume.aux
 INPUT /Users/steventhanna/Desktop/Programming/resume/resume.out
